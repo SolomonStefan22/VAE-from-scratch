@@ -1,0 +1,7 @@
+build/
+data/
+models/
+results/
+*.bin
+*.pgm
+*.ppm
